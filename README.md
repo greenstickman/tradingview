@@ -1,0 +1,2 @@
+# tradingview
+codes from tradingview
